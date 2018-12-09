@@ -42,7 +42,7 @@ public class ChessTimer extends JPanel {
   private final int CLOCK_IMAGE_MARGIN_LEFT = 30;
   
   // if images are not found: change folder here!
-  private final String IMAGE_FOLDER = "src/img/";
+  private final String IMAGE_FOLDER = "src/main/java/img/";
   
   private final int MILI_TO_SECOND = 1000;
   private final int SEC_TO_MIN = 60;
